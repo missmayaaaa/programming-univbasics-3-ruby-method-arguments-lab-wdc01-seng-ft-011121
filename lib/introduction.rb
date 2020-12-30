@@ -8,7 +8,7 @@ def introduction_with_language (name, language = "ruby")
 end
 
 
-introduction_with_language (Maya, Ruby)
+introduction_with_language ("Maya", "Ruby")
 
 
 
